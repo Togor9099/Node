@@ -1,0 +1,2 @@
+# Node
+computer that participates
